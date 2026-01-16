@@ -1,0 +1,11 @@
+[package]
+name = "ioci"
+version = "0.1.0"
+edition = "2024"
+authors = ["Lingxuan Ye <ink@lingxuan.io>"]
+categories = ["command-line-utilities"]
+repository = "https://github.com/Lingxuan-Ye/ioci"
+readme = "README.md"
+license = "MIT"
+publish = false
+description = "A keychain project."
